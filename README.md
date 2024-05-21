@@ -9,7 +9,9 @@ Contains Code and Solutions for Internet of Things.
 
 ## Which App Folder to which "Project"
 ### Uebung 01
-- [blink](./blink/)
-- [blink_io_platform](./blink_io_platform/)
-- [blink_selfmade](./blink_selfmade/)
-- [hello_world](./hello_world/)
+- [Documentation](./docs/ue_01_loesung.md)
+- Folders:
+    - [blink](./blink/)
+    - [blink_io_platform](./blink_io_platform/)
+    - [blink_selfmade](./blink_selfmade/)
+    - [hello_world](./hello_world/)
