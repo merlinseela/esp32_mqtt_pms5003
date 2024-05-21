@@ -5,7 +5,7 @@
 #include "driver/gpio.h"
 #include "esp_log.h"
 
-#include "pms5003.h"
+#include "dustlib/pms5003.h"
 #include "driver/uart.h"
 
 void app_main(void)
@@ -16,7 +16,7 @@ void app_main(void)
             // .mode_pin = GPIO_NUM_26,
             .rxd_pin = GPIO_NUM_14,
             .txd_pin = GPIO_NUM_12,
-            .uart_instance = UART_NUM_1,
+            // .uart_instance = UART_NUM_1,
             .uart_buffer_size = 128
     };
     // pms5003_measurement_t reading;
