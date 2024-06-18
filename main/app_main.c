@@ -33,12 +33,8 @@ static const char *TAG = "mqtt5_example";
 pms5003_config_t sense_pms_setup()
 {
     pms5003_config_t pms0 = {
-            .set_pin = GPIO_NUM_13,
-            .reset_pin = GPIO_NUM_27,
-            .mode_pin = GPIO_NUM_26,
             .rxd_pin = GPIO_NUM_14,
             .txd_pin = GPIO_NUM_12,
-            .uart_instance = UART_NUM_1,
             .uart_buffer_size = 128
     };
     pms5003_setup(&pms0);
