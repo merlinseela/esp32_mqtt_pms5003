@@ -1,4 +1,4 @@
-# MQTT Dustsensor ESP32
+# ESP32 MQTT PMS5003
 
 The Internet of Things (IoT) course at the Berlin University of Applied Sciences deals with various aspects and technologies to create the implementation of sensors, devices and software applications for a resource-saving, interoperable system landscape. With this in mind, the focus in the practical education is set on [MQTT](https://mqtt.org/). MQTT is a communication protocol standardized by [OASIS](https://groups.oasis-open.org/home), especially for IoT applications. In the following, the use of MQTT is realized experimentally by means of a particle sensor and a microcontroller. The network and MQTT broker required for MQTT are provided by the laboratory and are not the subject of this repository. The aim is to read out the particle sensor data at regular intervals and send it to the broker using a separate topic.
 
@@ -23,7 +23,7 @@ This repository was build using [Visual Studio Code](https://code.visualstudio.c
 Hardware:
 
 - [Freenove ESP32 Wroom Board](https://github.com/Freenove/Freenove_ESP32_WROOM_Board)
-- [PMD5003 Sensor Kit by Adafruit](https://www.adafruit.com/product/3686)
+- [PMS5003 Sensor Kit by Adafruit](https://www.adafruit.com/product/3686)
 
 ### Instructions
 
