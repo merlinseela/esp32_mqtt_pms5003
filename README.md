@@ -13,7 +13,7 @@ The Internet of Things (IoT) course at the Berlin University of Applied Sciences
 
 ### Obtain the Source Code
 
-You can acquire the Source Code by simply installing [git](https://git-scm.com/), opening a terminal and executing `git clone https://github.com/merlinseela/MQTT_Dustsensor_EST32.git`. It will download the source code.
+You can acquire the Source Code by simply installing [git](https://git-scm.com/), opening a terminal and executing `git clone https://github.com/merlinseela/ESP32_MQTT_PMS5003.git`. It will download the source code.
 
 ### Acquire Required Software and Hardware
 _Note: This is not binding but if you decide to get other Software and/or Hardware the Code most likely will not work without adjustments._
