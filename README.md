@@ -18,7 +18,7 @@ You can acquire the Source Code by simply installing [git](https://git-scm.com/)
 ### Acquire Required Software and Hardware
 _Note: This is not binding but if you decide to get other Software and/or Hardware the Code most likely will not work without adjustments._
 
-This repository was build using [Visual Studio Code](https://code.visualstudio.com/) and [ESP-IDF Extension by Espressif](https://docs.espressif.com/projects/esp-idf/en/v4.2.3/esp32/get-started/vscode-setup.html).
+This project was build using [Visual Studio Code](https://code.visualstudio.com/) and [ESP-IDF Extension by Espressif](https://docs.espressif.com/projects/esp-idf/en/v4.2.3/esp32/get-started/vscode-setup.html).
 
 Hardware:
 
