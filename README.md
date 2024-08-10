@@ -9,6 +9,11 @@ The Internet of Things (IoT) course at the [Berliner Hochschule für Technik](ht
 | Merlin Seela | IAmAMerlin | [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&color=181717)](https://github.com/merlinseela) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlinseela/) [![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/iamamerlin) |
 | Thomas Zimmermann | Zimpto | [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&color=181717)](https://github.com/Zimpto) |
 
+## Dependencies
+The folder [dustlib](./dustlib/) contains code written by [Aleksander Kurczyk](https://github.com/akurczyk/pms5003_esp32_driver). For legal reasons. We are not owner of this code in any form or do we want to be. We included the code here for simplicity. All credit goes to the original creator.
+
+The project is based on [mqtt5](https://github.com/espressif/esp-idf/tree/master/examples/protocols/mqtt5) an example project from [esp-idf](https://github.com/espressif/esp-idf).
+
 ## How to use this repository
 
 ### Obtain the Source Code
